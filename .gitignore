@@ -1,35 +1,221 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
-# dependencies
+# macOS
+.DS_Store
+
+# Node.js
 node_modules/
+npm-debug.log
+yarn-error.log
 
 # Expo
 .expo/
-dist/
-web-build/
-
-# Native
-*.orig.*
+__expo/
 *.jks
-*.p8
 *.p12
 *.key
-*.mobileprovision
 
-# Metro
-.metro-health-check*
+# Android
+android/
+app/build/
 
-# debug
-npm-debug.*
-yarn-debug.*
-yarn-error.*
+# iOS
+ios/
+build/
+*.xcworkspace
+*.xcuserdatad
+*.xcodeproj
 
-# macOS
-.DS_Store
-*.pem
+# Gradle
+.gradle/
+build/
 
-# local env files
-.env*.local
+# Logs
+logs/
+*.log
 
-# typescript
-*.tsbuildinfo
+# Dependencies
+*.idea/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.suo
+*.user
+*.userosscache
+*.suo
+*.tss
+*.ttc
+*.tmp
+*.dbmdl
+*.dbproj.suo
+*.jfm
+*.pfx
+*.publishsettings
+*.pubxml
+*.vcxproj
+*.vcxproj.filters
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.scc
+*.opensdf
+*.sdf
+*.psess
+*.vsp
+*.vspx
+*.pdb
+*.ipch/
+*.bak
+*.cache
+*.ReSharper*/
+*.resharper*/
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.pdb
+*.idb
+*.inst
+*.ldf
+*.mdf
+*.sdf
+*.map
+*.vspscc
+*.vssscc
+.~vs
+*.suo
+*.bak
+*.cache
+*.pdb
+*.setup
+*.user
+*.suo
+*.suo
+*.cache
+*.csproj.FileListAbsolute.txt
+*.csproj.user
+*.suo
+*.userosscache
+*.user
+*.suo
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
+*.suo
